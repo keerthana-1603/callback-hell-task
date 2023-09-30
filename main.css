@@ -1,0 +1,21 @@
+body{
+    background-color: blanchedalmond;
+}
+div{
+    text-align: center;
+    margin-top: 250px;
+}
+
+#text{
+    color: crimson;
+    border-top: 50px;
+}
+#btn{
+    background-color: black;
+    width: 140px;
+    height: 30px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    align-items: center;
+}
